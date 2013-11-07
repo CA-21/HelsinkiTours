@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:matko="https://aspicore-asp.net/matkoschema/">
+  <channel>
+    <title>Helsingin kaupungin matkailu- ja kongressitoimisto - All places</title>
+    <link>http://www.visithelsinki.fi</link>
+    <description>Helsingin paakohteet</description>
+    <language>fi-fi</language>
+    <pubDate>Thu, 17 Oct 2013 03:30:24 +0200</pubDate>
+    <image>
+      <title>Helsingin kaupungin matkailu- ja kongressitoimisto - All places</title>
+      <url>http://www.visithelsinki.fi/loader.aspx?id=432b4395-e520-4619-9ab3-247d26626dff</url>
+      <link>http://www.visithelsinki.fi</link>
+    </image>
+    <matko:imagepath>http://www.visithelsinki.fi/matko_pics/</matko:imagepath>
+    <matko:itemcount>1086</matko:itemcount>
+	<item>
+      <title>Uspenski Orthodox Cathedral</title>
+      <link>http://www.hos.fi</link>
+      <description>Completed in 1868 in the Katajanokka district of Helsinki, the Uspenski Cathedral is the largest orthodox church in Western Europe. With its golden cupolas and redbrick facade, the church is one of the clearest symbols of the Russian impact on Finnish history.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:23 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka228</guid>
+      <matko:id>228</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,TopSight,Church,Shoestring-kirkot</matko:type2>
+      <matko:address>Kanavakatu 1</matko:address>
+      <matko:zipcode>FI-00160 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)207 220 683</matko:phone>
+      <matko:fax>+358 (0)207 220 688</matko:fax>
+      <matko:email>uspenski@ort.fi</matko:email>
+      <matko:location />
+      <matko:open>Tue-Fri 9.30-16, Sat 10-15, Sun 12-15. In summer (until 29.8.2013) Tue-Fri 10-19, Sat 10-15, Sun 12-15. Closed during church events.</matko:open>
+      <matko:admission>Free of charge</matko:admission>
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Access with wheelchair difficult. In summer an temporary ramp to make the church easier to access with a wheelchair.</matko:disabled>
+      <matko:groups>Guide booking in advance, tel.+358-(0)207 220 683, languages: Finnish and English.</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Small souvenirshop.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>The Uspenski Cathedral is the largest orthodox church in Western Europe.</matko:ingress>
+      <matko:longitude>24.95992</matko:longitude>
+      <matko:latitude>60.16846</matko:latitude>
+    </item>	
+	<item>
+      <title>Linnanmaki Amusement Park</title>
+      <link>http://www.linnanmaki.fi</link>
+      <description>Linnanmaki has entertained families since 1950. The amusement park has an enormous selection of fun rides, from ultra scary to more easy-going. The special wooden rollercoaster is over 50-years-old and remains the most popular ride. Linnanmaki also has many arcade halls with the latest games as well as an outdoor stage presenting entertaining performances. Supporting child welfare workover 60 years.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:22 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka250</guid>
+      <matko:id>250</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,Meeting,TopSight,AmusementPark,Luokkaretkikohteet</matko:type2>
+      <matko:address>Tivolikuja 1</matko:address>
+      <matko:zipcode>FI-00510 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)10 5722 200</matko:phone>
+      <matko:fax />
+      <matko:email>myyntipalvelu@linnanmaki.fi</matko:email>
+      <matko:location>City centre 4 km, airport 17 km</matko:location>
+      <matko:open>Summer season is from end of April to September. Opening hours vary, please check in advance www.linnanmaki.fi</matko:open>
+      <matko:admission>Free entrance. Some rides for small children free of charge (NB!height-based restrictions); other attractions with all-day-wristbands or single tickets, prices vary. Please see:www.linnanmaki.fi</matko:admission>
+      <matko:targetgroups>Kids,Groups,Disabled,BOHA-winner</matko:targetgroups>
+      <matko:disabled>Relatively hindrance-free movement nearly everywhere in the park, an assistant is necessary due to the hilly terrain, motion handikapped persons have been given attention in the design of the restaurants, each of them has a toilet for wheelchair users inside or in the vicinity to use the amusement machines, an assistant is needed to lift, personnel assists if possible, assistants are permitted in the machines free of charge</matko:disabled>
+      <matko:groups>Companies and groups, tel. +358 (0)10 5722 220 , e-mail:myyntipalvelu@linnanmaki.fi (Mon-Fri 9-16). Class trips, tel.+358 (0)10 5722 224, e-mail:luokkaretket@linnanmaki.fi </matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Cafees, restaurants, kiosks, shops and parking for c. 300 cars.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater>900</matko:largesttheater>
+      <matko:largestclassroom>60</matko:largestclassroom>
+      <matko:largestauditorium />
+      <matko:largestcocktailroom>150</matko:largestcocktailroom>
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms>3</matko:numberofconferencerooms>
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress>Finlands most popular amusement park</matko:ingress>
+      <matko:longitude>24.9407</matko:longitude>
+      <matko:latitude>60.18948</matko:latitude>
+    </item>	
+	<item>
+      <title>Market Square</title>
+      <link>http://www.hel.fi/kv</link>
+      <description>The Market Square is Helsinki's most international and famous market. The booths here sell traditional market foods and treats, as well as handicrafts and souvenirs. There is also a heated cafe tent where you can comfortably sip steaming hot coffee even on the coldest days in winter.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:22 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka132</guid>
+      <matko:id>132</matko:id>
+      <matko:type1>OSTOSPAIKKA</matko:type1>
+      <matko:type2>OSTOSPAIKKA,MarketPlace,Souvenirs</matko:type2>
+      <matko:address>South Harbour</matko:address>
+      <matko:zipcode>FI-00170 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 3107 1390/market square warden, (0)9 3104 0377/Real Estate dept., Premises Centre</matko:phone>
+      <matko:fax />
+      <matko:email>tilakeskus.ulkomyynti@hel.fi</matko:email>
+      <matko:location>Located on the South Harbour at the end of the Esplanade Park.</matko:location>
+      <matko:open>Mon-Fri 6.30-18, Sat 6.30-16, during summer also Sun 10-17.</matko:open>
+      <matko:admission />
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.95421</matko:longitude>
+      <matko:latitude>60.16759</matko:latitude>
+    </item>	
+	<item>
+      <title>Museum of Contemporary Art Kiasma</title>
+      <link>http://www.kiasma.fi/index.php?id=11&amp;L=1</link>
+      <description>The Museum of Contemporary Art Kiasma breaks the boundaries of traditional art museums and follows the latest trends. The collections include Finnish and foreign art, particularly from the Nordic and Baltic countries and Russia from 1960s onwards. Special exhibitions and related happenings. The Kiasma Theatre's programme includes drama, dance, performance, music, multimedia, film and video art &amp; seminars, lectures and public discussions. Kiasma is a part of the Finnish National Gallery.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:22 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka141</guid>
+      <matko:id>141</matko:id>
+      <matko:type1>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,MUSEO</matko:type1>
+      <matko:type2>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,MUSEO,Meeting,TopSight,Art,Architecture,TopMuseum,MuseumArt,MeetingVideo</matko:type2>
+      <matko:address>Mannerheiminaukio 2</matko:address>
+      <matko:zipcode>FI-00100 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 1733 6501</matko:phone>
+      <matko:fax>+358 (0)9 1733 6503</matko:fax>
+      <matko:email>info@kiasma.fi</matko:email>
+      <matko:location>In the city centre, airport 19 km</matko:location>
+      <matko:open>Tue 10-17, Wed-Fri 10-20.30, Sat 10-18, Sun 10-17</matko:open>
+      <matko:admission>Adults 10, students and pensioners 8, children under 18 years free of charge.  On the first Friday of each month free entry at 17-20.30.</matko:admission>
+      <matko:targetgroups>Kids,Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Easy access with wheelchair, wheelchairs available. Inva-WC and lift, 2 Inva parking lots.</matko:disabled>
+      <matko:groups>Guidebooking, tel. +358 (0)9 1733 6509 (Tue-Fri 9-12). Languages: Finnish, Swedish, English, Russian &amp; Italian. Also theme guided tours.</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Kiasma Museum Store, tel+358 (0)9 1733 6505 and Cafe Kiasma, tel+358 (0)45-878 7186, cafe and restaurant with approx.80 seats, summer terrace, catering service, lunch (also for groups, when pre-booked). Opening hours same as museum. Kiasma Theatre tel+358 (0)9 1733 6501, workshops tel+358 (0)9 1733 6668.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater>200</matko:largesttheater>
+      <matko:largestclassroom>50</matko:largestclassroom>
+      <matko:largestauditorium>200</matko:largestauditorium>
+      <matko:largestcocktailroom>800</matko:largestcocktailroom>
+      <matko:largestdinnerroom>110</matko:largestdinnerroom>
+      <matko:largestboardroom>8</matko:largestboardroom>
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>Kiasma is a part of the Finnish National Gallery.</matko:ingress>
+      <matko:longitude>24.93662</matko:longitude>
+      <matko:latitude>60.17206</matko:latitude>
+    </item>	
+	<item>
+      <title>National Museum of Finland</title>
+      <link>http://www.kansallismuseo.fi</link>
+      <description>The National Museum of Finland illustrates Finnish history from prehistoric times to the present day. Major archaeological finds, the historical, numismatic and ethnological collections have been put together for over 170years. Workshop Vintti on the third floor is an interactive exhibition especially designed for children, where visitors can study the history of Finland and its culture using their hands and heads. VINTTI is suited to everyone over the age of seven. Younger children can visit in the company of adults. There is no upper age limit. 
+Temporary exhibitions.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:22 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka107</guid>
+      <matko:id>107</matko:id>
+      <matko:type1>KOKOUSPAIKKA,NÄHTÄVYYS &amp; KOHDE,MUSEO</matko:type1>
+      <matko:type2>KOKOUSPAIKKA,NÄHTÄVYYS &amp; KOHDE,MUSEO,Meeting,Banquet,TopSight,Architecture,TopMuseum,MuseumOther,Auditorio,Shoestring-museot</matko:type2>
+      <matko:address>Mannerheimintie 34</matko:address>
+      <matko:zipcode>FI-00100 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0) 40 128 6469</matko:phone>
+      <matko:fax>+358 (0)9 4050 9400</matko:fax>
+      <matko:email>kansallismuseo@nba.fi</matko:email>
+      <matko:location>In the city centre, airport 20 km</matko:location>
+      <matko:open>Tue-Sun 11-18</matko:open>
+      <matko:admission>Adults 8, students and pensioners 6, children under 18 years free of charge. Free entrance on Fridays 16-18</matko:admission>
+      <matko:targetgroups>Kids,Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Accessible entrance on Mannerheimintie street. Lift to all exhibitions, electrical doors. An induction loop in the auditorium. Magnifying glasses, wheelchairs and rolling walking aids to lent. Guide and assistance dogs are welcome. Toilet for disabled. A part of the exhibitions are dimly lighted due to technical reasons.</matko:disabled>
+      <matko:groups>Guide booking tel.+358 (0)40 1597 679 (Tue-Fri 9-12). Languages Finnish, Swedish, English, German, French, Russian. Group size max. 30pers., schoolgroups max. 25 pers. and kindergarten groups max. 15pers.</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo>The cafe-restaurant seats 50 and in the summer months there is an outdoor cafe for 50 persons. Food and refreshments for the auditorium are served in the adjacent lobby.</matko:restaurantinfo>
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo>In addition to its museum and exhibition activities, the National Museum of Finland has high-standard facilities for arranging various kinds of functions, such as conferences, seminars and media launches in its spacious and wellequipped auditorium. Situated on the ground floor of the museum, the auditorium seats 212.  There is separate access from street level to the conference facilities. Functions and conferences can be combined with a visit to the museum's permanent or temporary exhibitions. Guided tours by request.</matko:additionalinfo>
+      <matko:services>Cafe (tel.+358 (0)9 4050 9530, open Tue-Sun 11-17, approx. 50 seats, a terrace in summer, lunch Tue-Fri 11-14. Museum shop, information centre. Auditorium (212 seats).</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater>220</matko:largesttheater>
+      <matko:largestclassroom />
+      <matko:largestauditorium>212</matko:largestauditorium>
+      <matko:largestcocktailroom>200</matko:largestcocktailroom>
+      <matko:largestdinnerroom>50</matko:largestdinnerroom>
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms>2</matko:numberofconferencerooms>
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats>50</matko:numberofrestaurantseats>
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>Finnish history from prehistoric times to the present day.</matko:ingress>
+      <matko:longitude>24.93217</matko:longitude>
+      <matko:latitude>60.17491</matko:latitude>
+    </item>	
+	<item>
+      <title>Sibelius Monument</title>
+      <link>http://www.taidemuseo.fi/suomi/veisto/veistossivu.html?id=248&amp;sortby=artist</link>
+      <description>In the Sibelius park is the world famous composer Jean Sibelius'
+(1865-1957) monument by Eila Hiltunen. It was unveiled 7.9.1967. 
+The Sibelius Monument, recembling organ pipes, is made of welded steel with the bust of the composer on one side. The monument is one of Helsinki's most popular statues and one of the most well known tourist attractions. The monument is 8,5m high, 10,5m wide and 6,5m deep. It is built of over 600 pipes and weighs 24 tons. 
+</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:23 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka927</guid>
+      <matko:id>927</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,TopSight</matko:type2>
+      <matko:address>Sibeliuksen puisto/Sibelius Park</matko:address>
+      <matko:zipcode>00260 Helsinki</matko:zipcode>
+      <matko:phone />
+      <matko:fax />
+      <matko:email />
+      <matko:location>In Taka-T��l�, between Merikannontie and Mechelininkatu. Bus 24.</matko:location>
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups>Kids,Youth,Individuals,Groups</matko:targetgroups>
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>False</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.91364</matko:longitude>
+      <matko:latitude>60.18192</matko:latitude>
+    </item>	
+	<item>
+      <title>Sinebrychoff Park</title>
+      <description></description>
+      <pubDate>Fri, 25 Oct 2013 03:30:23 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka1352</guid>
+      <matko:id>1352</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,Park</matko:type2>
+      <matko:address>Bulevardi 40</matko:address>
+      <matko:zipcode>00120 Helsinki</matko:zipcode>
+      <matko:phone />
+      <matko:fax />
+      <matko:email />
+      <matko:location />
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.93309</matko:longitude>
+      <matko:latitude>60.16192</matko:latitude>
+    </item>	
+	<item>
+      <title>Suomenlinna Maritime Fortress</title>
+      <link>http://www.suomenlinna.fi/index.php?lang=eng</link>
+      <description>Suomenlinna (Viapori/Sveaborg) fortress is one of the biggest sea fortresses in the world. Founded in 1748 and built by Augustin Ehrensvard on islands off the coast of Helsinki. Suomenlinna one of the most popular attractions in Finland and a place where people live. It was included in Unesco's World Heritage List in 1991 as a unique monument to European military architecture. An important part of any visit to Suomenlinna is a good meal or a welcome break at one of the cafes. The fortress has a selection of restaurants and charming cafes. The Visitor Centre, situated in the middle of the fortress at Tykist�lahti bay, is a base and information point for visitors and is the starting point for the walking tours. It also contains the Suomenlinna Museum exhibition. Suomenlinna is explored on foot. During the summer months there are daily guided tours in English, Swedish and Finnish around Suomenlinna. In the winter there are tours in English during the weekends.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:23 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka416</guid>
+      <matko:id>416</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,TopSight,WWF Green Office -paikka,Luokkaretkikohteet</matko:type2>
+      <matko:address>Suomenlinna</matko:address>
+      <matko:zipcode>FI-00190 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 684 1880/tourist information, (0)9 684 1850/Ehrensvard Society</matko:phone>
+      <matko:fax />
+      <matko:email>info@suomenlinna.fi</matko:email>
+      <matko:location>Just off the coast of Helsinki city centre. Public transport ferry (all year) or waterbus by JT-Line (in summer) from the Market Square. Traveltime approx.15min. Timetables www.hsl.fi &amp; www.jt-line.fi</matko:location>
+      <matko:open>Suomenlinna island is open all year round. Suomenlinna visitors centre and museum and some other services are open also during winter. No entrance fee for the island.</matko:open>
+      <matko:admission>Public transport ferry:Suomenlinna ticket (return) 5 adults/2,50 child 7-16yrs or single ticket (from vending machine at the pier). Waterbus JT-Line in summer: return 7/adult, 3,50/child 7-16yrs.</matko:admission>
+      <matko:targetgroups>Kids,Individuals,Groups,BOHA-winner</matko:targetgroups>
+      <matko:disabled>There are many cobbled sections of road on the islands, where the use of a wheelchair or baby carriage may be somewhat difficult.</matko:disabled>
+      <matko:groups>Guided tours and programme for groups on request, Ehrensvard Society, tel. +358-(0)9-684 1850, www.suomenlinnatours.com</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Eg. museums, cafes, restaurants, guided tours etc. Please see the Suomenlinna webpages for more information.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>Suomenlinna fortress is one of the biggest sea fortresses in the world.</matko:ingress>
+      <matko:longitude>24.98773</matko:longitude>
+      <matko:latitude>60.14519</matko:latitude>
+    </item>
+    <item>
+      <title>Ateneum Art Museum</title>
+      <link>http://www.ateneum.fi</link>
+      <description>Ateneum Art Museum houses the largest collections of art in Finland with more than 20,000 works of art from the 1750s to the 1950s.
+The changing exhibitions are on display on the ground floor and in the exhibition halls on the second floor. Ateneum also organises various workshops, guided tours and other programme. The Ateneum building was designed by the architect Theodor H�ijer and it was completed in 1887. Ateneum Art Museum is part of the Finnish National Gallery.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:20 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka187</guid>
+      <matko:id>187</matko:id>
+      <matko:type1>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,MUSEO</matko:type1>
+      <matko:type2>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,MUSEO,Meeting,Banquet,TopSight,Art,TopMuseum,MuseumArt,Auditorio,Erikoiset juhlapaikat</matko:type2>
+      <matko:address>Kaivokatu 2</matko:address>
+      <matko:zipcode>FI-00100 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0) 9 6122 5510</matko:phone>
+      <matko:fax />
+      <matko:email>ainfo@ateneum.fi</matko:email>
+      <matko:location />
+      <matko:open>Tue &amp; Fri 10-18, Wed-Thu 10-20, Sat-Sun 11-17.</matko:open>
+      <matko:admission>Admission fee 12/10€, children under 18 free admission.</matko:admission>
+      <matko:targetgroups>Kids,Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Access with wheelchair, entrance from Ateneuminkuja. All exhibitions accessible by lift. Wheelchairs for loan, further details from the info desk during museum opening hours. Inva-WC.</matko:disabled>
+      <matko:groups>Guide booking, tel. +358 (0)9 6122 5520 (Tue-Fri 9-12). Max. 25persons/group. Languages available: Finnish, Swedish, English, French, Italian, Spanish and Russian. Also sign language available. Advance tickets are available from Lippupalvelu's ticket offices and Lippupalvelu's online shop.</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms>The premises can be used for banquets and private events, the museum's own activities permitting. The museum's facilities can be used for private purposes for more than 200 people outside the museum's opening hours.</matko:additionalconferencerooms>
+      <matko:additionalinfo />
+      <matko:services>2 museum shops with a wide range of art products and books, cafe-restaurant Tablo Ateneum serves lunch and bakery products.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater>150</matko:largesttheater>
+      <matko:largestclassroom>55</matko:largestclassroom>
+      <matko:largestauditorium>150</matko:largestauditorium>
+      <matko:largestcocktailroom>100</matko:largestcocktailroom>
+      <matko:largestdinnerroom>80</matko:largestdinnerroom>
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>The Ateneum Art Museum is the basic part of the Finnish National Gallery.</matko:ingress>
+      <matko:longitude>24.9441</matko:longitude>
+      <matko:latitude>60.17009</matko:latitude>
+    </item>
+    <item>
+      <title>Central Park</title>
+      <link>http://www.hel2.fi/keskuspuisto/eng/1centralpark/</link>
+      <description>Covering a thousand hectares, the Central Park runs ten kilometres from T��l�nlahti Bay in the centre to Haltiala on the northern outskirts of the city. In the city centre, it consists of urban cultural parks, its extensive central section is mainly recreational forests, while in Haltiala there are primeval forests and agricultural landscapes. There are four nature reserves in the park: the deciduous forests in Pitkakoski and Ruutinkoski, Haltiala primeval forest and Niskala arboretum.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:20 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka906</guid>
+      <matko:id>906</matko:id>
+      <matko:type1 />
+      <matko:type2>RecreationalArea</matko:type2>
+      <matko:address />
+      <matko:zipcode>Helsinki</matko:zipcode>
+      <matko:phone />
+      <matko:fax />
+      <matko:email />
+      <matko:location />
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups />
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.91519</matko:longitude>
+      <matko:latitude>60.19748</matko:latitude>
+    </item>
+    <item>
+      <title>Finlandia Hall</title>
+      <link>http://www.finlandiatalo.fi/en/</link>
+      <description>Finlandia Hall in Helsinki is the leading congress, event and entertainment venue in Finland. Centrally located, in park-like surroundings, Finlandia Hall is ideal for conferences and exhibitions, as well as for smaller meetings, concerts and light entertainment.
+A masterpiece by the world-renowned Finnish architect, Alvar Aalto, Finlandia Hall is worth a visit in its own right.
+</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka5</guid>
+      <matko:id>5</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,Architecture,WWF Green Office -paikka,Luokkaretkikohteet</matko:type2>
+      <matko:address>Mannerheimintie 13 e</matko:address>
+      <matko:zipcode>00100 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 40241</matko:phone>
+      <matko:fax>+358 (0)9 402 4438</matko:fax>
+      <matko:email>info@finlandiatalo.fi</matko:email>
+      <matko:location>In the city centre, airport 30 min</matko:location>
+      <matko:open>Open only during events and guided tours. InfoShop open Mon-Fri 7.30 - 17.00.</matko:open>
+      <matko:admission>Guided tours: Adults 12,50€, senior citizens, students and children (under 16years) 10€</matko:admission>
+      <matko:targetgroups>Individuals,Groups,Disabled</matko:targetgroups>
+      <matko:disabled>Restricted accessibility, Inva-WC, induction loop system (amplification system for people with hearing aids)
+</matko:disabled>
+      <matko:groups>Guided tours for groups (max.25pers.) by request, Info-Shop, tel.+358-(0)9-4024 211, guide fee during weekdays 120€, Sat-Sun and holidays 170€. Reservations www.finlandiatalo.fi.</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo>The Finlandia Restaurant is a private restaurant, which serves gourmet food; dinner for 1100 persons, cocktails for 2500. Tel. +385 9 6128 6400</matko:restaurantinfo>
+      <matko:exhibitioninfo>Main building c. 4,000 m2, Congress wing c. 2,000 m2</matko:exhibitioninfo>
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Regular guided tours open to the public. Further information at the InfoShop, tel.+358-(0)9-4024 211, e-mail:palvelupiste@finlandiatalo.fi or www.finlandiatalo.fi (open Mon-Fri 7.30-17).  Interval refreshments can be booked in advance from 9 to 16 on weekdays, tel. +358-(0)9-402 4500.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater>1700</matko:largesttheater>
+      <matko:largestclassroom>450</matko:largestclassroom>
+      <matko:largestauditorium>1700</matko:largestauditorium>
+      <matko:largestcocktailroom>5000</matko:largestcocktailroom>
+      <matko:largestdinnerroom>900</matko:largestdinnerroom>
+      <matko:largestboardroom>12</matko:largestboardroom>
+      <matko:numberofconferencerooms>20</matko:numberofconferencerooms>
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea>4000</matko:exhibitionarea>
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>Internationally most notable concert and congress hall in Finland.</matko:ingress>
+      <matko:longitude>24.93325</matko:longitude>
+      <matko:latitude>60.17569</matko:latitude>
+    </item>
+    <item>
+      <title>Finnish National Opera</title>
+      <link>http://www.operafin.fi</link>
+      <description>Surrounded by park, the Opera, built in the beginning of the 1990's, is in the inner city and easily accessible by public transport. View from the main foyer over the sea and city centre. Performances six days a week as a rule: opera, ballet, premieres, concerts and other events. Main auditorium, intimate Almi Hall and impressive foyers. Guided tours by arrangement.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka23</guid>
+      <matko:id>23</matko:id>
+      <matko:type1>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,Meeting,Banquet,Opera,Concert,Ekokompassi</matko:type2>
+      <matko:address>Helsinginkatu 58</matko:address>
+      <matko:zipcode>00250 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 403 021, +358 (0)9 4030 2211/box office</matko:phone>
+      <matko:fax>+358 (0)9 4030 2349</matko:fax>
+      <matko:email />
+      <matko:location>City centre 1.5 km, airport 19 km</matko:location>
+      <matko:open />
+      <matko:admission>Different ticket categories (1.-6.); students and schoolchildren -50% in ticket categories 1-4.</matko:admission>
+      <matko:targetgroups>Individuals,Groups,Disabled</matko:targetgroups>
+      <matko:disabled>Access with wheelchair, Inva-WC, lift (doors opens automatically), easy access for visually impaired, wheelchair seats in the boxes of the 1st and 2nd balcony. When buying tickets for these seats, please notify the Opera at least a week in advance. Parking and entrance in T��l� Bay side. The libretto of some operas available in embossed printing. Induction loop system for people with hearing aids in the stalls and on the 1st balcony.</matko:disabled>
+      <matko:groups>Tickets for groups: in ticket categories 1 and 2 discount -10€/person (Mon-Thu, min. 30 persons). Guided tours of the Opera House can be organized on request for groups. For further information and bookings, The National Opera sales service, tel. +358- (0)9-4030 2210, e-mail: housetours@operafin.fi .</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo>Opera Restaurant: 200-650 seats; catering in the foyer for 1500</matko:restaurantinfo>
+      <matko:exhibitioninfo>Foyer</matko:exhibitioninfo>
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo>Guided tours on request, regular opera and ballet performances</matko:additionalinfo>
+      <matko:services>Guided tours in Finnish every Wed at 14.30 (8€/adults, 5€/children). Guided tours of the Opera House in English in other languages can be organized on request during the performance season. For further information and bookings, The National Opera sales service, tel. +358- (0)9-4030 2210, e-mail: housetours@operafin.fi .
+Cafe Opera in the main foyer is open Mon-Fri 12-17, exhibitions in the cafe.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater>1500</matko:largesttheater>
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom>700</matko:largestcocktailroom>
+      <matko:largestdinnerroom>350</matko:largestdinnerroom>
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.92887</matko:longitude>
+      <matko:latitude>60.18215</matko:latitude>
+    </item>
+    <item>
+      <title>Helsinki Cathedral</title>
+      <link>http://www.helsinginseurakunnat.fi/tuomiokirkko</link>
+      <description>The beautiful and historically significant Helsinki Cathedral is an Evangelic Lutheran church, and for many it is the symbol of Helsinki. The church was designed by architect Carl Ludwig Engel in the 19th century as part of the Empire-style-downtown Helsinki area. The cathedral was completed in 1852.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka226</guid>
+      <matko:id>226</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,TopSight,Church,Concert,Shoestring-kirkot</matko:type2>
+      <matko:address>Unioninkatu 29</matko:address>
+      <matko:zipcode>FI-00121 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 2340 6120</matko:phone>
+      <matko:fax />
+      <matko:email>tuomiokirkko.srk@evl.fi</matko:email>
+      <matko:location />
+      <matko:open>Open 9-18, in summer 9-24. Sightseeing visits to the Cathedral are not possible during services and other events.</matko:open>
+      <matko:admission>Free admission.</matko:admission>
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Access for wheelchairs by the lift in the crypt (Kirkkokatu 18), Inva-WC also in the crypt. Please call +358 9 2340 6120 in advance.</matko:disabled>
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>In summer (June-August) Cathedral Shop and Cafe Krypta (Kirkkokatu 18).</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>The Cathedral is designed by C.L. Engel.</matko:ingress>
+      <matko:longitude>24.95111</matko:longitude>
+      <matko:latitude>60.16992</matko:latitude>
+    </item>
+    <item>
+      <title>Helsinki City Museum</title>
+      <link>http://www.helsinginkaupunginmuseo.fi</link>
+      <description>The Helsinki City Museum main building, a department store from 1913, opens a new exhibition Mad about Helsinki in June 2013. The exhibition presents the history of the city through the favourite places and storied of the Helsinki residents. Old documentary movies about Helsinki (mainly in Finnish) are shown at Kino Engel 2.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka174</guid>
+      <matko:id>174</matko:id>
+      <matko:type1>MUSEO</matko:type1>
+      <matko:type2>MUSEO,TopMuseum,MuseumOther,Shoestring-museot,Gay-kohde</matko:type2>
+      <matko:address>Sofiankatu 4</matko:address>
+      <matko:zipcode>FI-00170 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 3103 6630</matko:phone>
+      <matko:fax>+358 (0)9 667 665</matko:fax>
+      <matko:email>kaupunginmuseo@hel.fi</matko:email>
+      <matko:location />
+      <matko:open>Mon, Tue, Wed &amp; Fri 9-17, Thu 9-19, Sat-Sun 11-17. 
+NOTE PLEASE! Museum is closed until 5.6.2013. The new exhibition Mad about Helsinki opens June 6th</matko:open>
+      <matko:admission>Free entry</matko:admission>
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Access with wheelchairs, wheelchairs available. Inva-WC and lift.</matko:disabled>
+      <matko:groups>Guide booking tel.+358 (0)9 3103 6491 or +358 (0)93103 6639</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo>Palmia rents out the premises for private occasions
+
+Palmia Meetings and Catering
+Kapylantie 8, 00600 Helsinki (P.O. Box 9500, 00099 City of Helsinki)
+Tel. +358 (0)9 310 27237 tai 050 534 9205
+Fax +358 (0)9 310 86393
+Email: kokous.juhla@palmia.fi
+Internet: www.palmia.fi
+</matko:additionalinfo>
+      <matko:services>Museum shop</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom>200</matko:largestcocktailroom>
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.95202</matko:longitude>
+      <matko:latitude>60.16851</matko:latitude>
+    </item>
+    <item>
+      <title>Helsinki Hall of Culture</title>
+      <link>http://www.kulttuuritalo.fi</link>
+      <description>The Helsinki Hall of Culture was designed by architect Alvar Aalto and is a venue for conferences, galas, trade fairs and concerts. Situated in the inner city, well served by public transport. The Aalto Hall has 1452 seats. There are seats both on the flat and in the raked auditorium. Seats on the flat can be removed for gala use. After complete renovation work, the venue can now offer nearly 10 different kinds of meeting rooms for 20-150 persons.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka17</guid>
+      <matko:id>17</matko:id>
+      <matko:type1>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,Meeting,Banquet,Architecture,Concert,Auditorio</matko:type2>
+      <matko:address>Sturenkatu 4</matko:address>
+      <matko:zipcode>00510 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 7740 2711 (sales), +358 (0)9 7740 2744 (restaurant)</matko:phone>
+      <matko:fax>+358 (0) 9 7740 2777</matko:fax>
+      <matko:email>info@kulttuuritalo.fi, kulttuuritalo@crepperie.com</matko:email>
+      <matko:location>City centre 15 min/2.5 km, airport 25 min/18 km</matko:location>
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups>Seniors,Individuals,Groups,Disabled</matko:targetgroups>
+      <matko:disabled>Full accessibility, toilet for wheelchair users, lift; essential for access,
+lift doors opens automatically, easy access for blind or partially sighted, lighting intensity 50-150 lux.
+</matko:disabled>
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo>All areas are used for catering and are fully licensed. Catering up to 1.500 persons, services tailored to suit all kinds of events. Restaurant Kultti Cafe: 100 seats for dinners and 120 for cocktail parties. 
+
+</matko:restaurantinfo>
+      <matko:exhibitioninfo>The main entrance hall and lobby 900 m2/net, 1100 m2/gross. Catering and pause services in the same area.</matko:exhibitioninfo>
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo>* 499 seats on the flat and 889 in the raked auditorium.
+
+Sound, lighting and video services as agreed.</matko:additionalinfo>
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater>1388</matko:largesttheater>
+      <matko:largestclassroom>300</matko:largestclassroom>
+      <matko:largestauditorium>100</matko:largestauditorium>
+      <matko:largestcocktailroom>1500</matko:largestcocktailroom>
+      <matko:largestdinnerroom>500</matko:largestdinnerroom>
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms>5</matko:numberofconferencerooms>
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea>900</matko:exhibitionarea>
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress>A venue for conferences, galas, roadshows, trade fairs, concerts.</matko:ingress>
+      <matko:longitude>24.94416</matko:longitude>
+      <matko:latitude>60.18831</matko:latitude>
+    </item>
+    <item>
+      <title>Helsinki University Botanic Garden, Kaisaniemi</title>
+      <link>http://www.luomus.fi/english/exhibitions/botanicgarden/index.htm</link>
+      <description>The University of Helsinki Botanical Garden at Kaisaniemi is one of Helsinki's most popular visitor attractions. The garden is situated very close to the city centre, and its glasshouses and surrounding grounds offer nature lovers a unique experience all year round. The gallery between the large and small glasshouses is used to host temporary exhibitions, mostly on themes related to nature.
+
+</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka216</guid>
+      <matko:id>216</matko:id>
+      <matko:type1>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>KOKOUSPAIKKA,JUHLATILA,NÄHTÄVYYS &amp; KOHDE,Meeting,Banquet,Park,Nature,Erikoiset juhlapaikat,BotanicalGarden,Luokkaretkikohteet</matko:type2>
+      <matko:address>Unioninkatu 44, Kaisaniemenranta 2</matko:address>
+      <matko:zipcode>00170 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 1912 4455</matko:phone>
+      <matko:fax />
+      <matko:email>hortus-botanicus@helsinki.fi</matko:email>
+      <matko:location>In the city centre, airport 19 km</matko:location>
+      <matko:open>Greenhouses: in winter: Tue-Fri 10-16, Thu 10-18, Sat-Sun 10-16, in summer: Tue-Sun 10-17. The gates to the outer garden are open Mon-Sun 9-20. Exceptions: www.luomus.fi/kaisaniemi.
+</matko:open>
+      <matko:admission>Greenhouses: adults 8€, pensioners, students and children (7-17 years) 3€, children under 7 years free of charge. Outdoor garden free of charge.</matko:admission>
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled>Access for wheelchairs, Inva-WC, assistant needed.</matko:disabled>
+      <matko:groups>Guide reservations tel +358-9 191 28855 (Tue-Fri 9-11) or opastukset@luomus.fi.
+</matko:groups>
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo>Well-lighted art gallery with an 18 m long exhibition wall and a separate
+3x2 m sized vitrine</matko:exhibitioninfo>
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo>The biggest glass house, Palm House, can be hired for cocktail occasions in the evenings. A tent is available for garden parties. Meeting rooms Linkola and Elfving and a little kitchen. A souvenir shop. Reservations of Palm House, meeting rooms and guided tours tel. +358 9 1912 4453, 05+358 50 337 5271, e-mail hortus-botanicus@helsinki.fi</matko:additionalinfo>
+      <matko:services>Small museum shop in connection to the ticket sales. Restaurant Viola, Kaisaniemenranta 2, tel. +358-9-1311 4298, open only by appointment during summertime. The Empire-style wooden building, dating from 1823 and situated near the Kaisaniemenranta road provides a charming setting.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom>100</matko:largestcocktailroom>
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms>3</matko:numberofconferencerooms>
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress>The Garden offers an unique experience all year round.</matko:ingress>
+      <matko:longitude>24.9457</matko:longitude>
+      <matko:latitude>60.17454</matko:latitude>
+    </item>
+    <item>
+      <title>Kallio Church</title>
+      <link>http://www.helsinginseurakuntayhtyma.fi/?deptid=84&amp;languageid=4</link>
+      <description>This grey granit church was planned by Lars Sonck in 1912. Jean Sibelius composed a melody for the bells.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka337</guid>
+      <matko:id>337</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,Church</matko:type2>
+      <matko:address>Itainen Papinkatu 2</matko:address>
+      <matko:zipcode>FI-00530 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 2340 3620</matko:phone>
+      <matko:fax>+358 (0)9 2340 3601</matko:fax>
+      <matko:email>kallio.srk@evl.fi</matko:email>
+      <matko:location />
+      <matko:open>Mon-Wed, Fri 12-17, Thu 12-18, Sat-Sun 10-18.</matko:open>
+      <matko:admission>Free entrance</matko:admission>
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled>The vestibule of the church is dark.</matko:disabled>
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Helsinki Organ Summer concerts on Mon at 19.30.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress>Gray granite church.</matko:ingress>
+      <matko:longitude>24.9501</matko:longitude>
+      <matko:latitude>60.18444</matko:latitude>
+    </item>   
+    <item>
+      <title>Kamppi Shopping Centre</title>
+      <link>http://www.kamppi.fi/UK/Default.aspx</link>
+      <description>Kamppi is the newest shopping centre in Helsinki city centre.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:21 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka1066</guid>
+      <matko:id>1066</matko:id>
+      <matko:type1>OSTOSPAIKKA</matko:type1>
+      <matko:type2>OSTOSPAIKKA,ShoppingCentre</matko:type2>
+      <matko:address>Urho Kekkosen katu 1</matko:address>
+      <matko:zipcode>00100 Helsinki</matko:zipcode>
+      <matko:phone>+358 (0)9 742 98552/info</matko:phone>
+      <matko:fax />
+      <matko:email />
+      <matko:location />
+      <matko:open>The shopping centre is open Mon-Fri 9-21, Sat 9-18.</matko:open>
+      <matko:admission />
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services>Kamppi consists of a bus station for long distance buses, a terminal for Espoo buses, a connection to the Kamppi metro station, cargo services and a parking facility.</matko:services>
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>1</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.93351</matko:longitude>
+      <matko:latitude>60.16949</matko:latitude>
+    </item>
+    <item>
+      <title>Kruununmakasiini</title>
+      <description></description>
+      <pubDate>Fri, 25 Oct 2013 03:30:22 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka2214</guid>
+      <matko:id>2214</matko:id>
+      <matko:type1>NÄHTÄVYYS &amp; KOHDE</matko:type1>
+      <matko:type2>NÄHTÄVYYS &amp; KOHDE,Gallery</matko:type2>
+      <matko:address>Hameentie 39</matko:address>
+      <matko:zipcode>00510 Helsinki</matko:zipcode>
+      <matko:phone />
+      <matko:fax />
+      <matko:email />
+      <matko:location />
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups>Individuals,Groups</matko:targetgroups>
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.94351</matko:longitude>
+      <matko:latitude>60.16663</matko:latitude>
+    </item>
+	<item>
+      <title>Esplanade Park</title>
+      <link></link>
+      <description>Situated in the heart of Helsinki, the Esplanade serves as a promenade for tourists and a place to relax for city residents.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:20 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka906</guid>
+      <matko:id>906</matko:id>
+      <matko:type1 />
+      <matko:type2>RecreationalArea</matko:type2>
+      <matko:address />
+      <matko:zipcode>Helsinki</matko:zipcode>
+      <matko:phone />
+      <matko:fax />
+      <matko:email />
+      <matko:location />
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups />
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.947791</matko:longitude>
+      <matko:latitude>60.167518</matko:latitude>
+    </item>
+	<item>
+      <title>Temppeliaukio Church</title>
+      <link></link>
+      <description>Quarried out of the natural bedrock, Temppeliaukio Church is one of Helsinki's most popular tourist attractions.</description>
+      <pubDate>Fri, 25 Oct 2013 03:30:20 +0200</pubDate>
+      <guid isPermaLink="false">https://aspicore-asp.net/helsinki/xml/paikka906</guid>
+      <matko:id>906</matko:id>
+      <matko:type1 />
+      <matko:type2>RecreationalArea</matko:type2>
+      <matko:address />
+      <matko:zipcode>Helsinki</matko:zipcode>
+      <matko:phone />
+      <matko:fax />
+      <matko:email />
+      <matko:location />
+      <matko:open />
+      <matko:admission />
+      <matko:targetgroups />
+      <matko:disabled />
+      <matko:groups />
+      <matko:accomodationinfo />
+      <matko:restaurantinfo />
+      <matko:exhibitioninfo />
+      <matko:additionalconferencerooms />
+      <matko:additionalinfo />
+      <matko:services />
+      <matko:hotelclassification />
+      <matko:largesttheater />
+      <matko:largestclassroom />
+      <matko:largestauditorium />
+      <matko:largestcocktailroom />
+      <matko:largestdinnerroom />
+      <matko:largestboardroom />
+      <matko:numberofconferencerooms />
+      <matko:numberofhotelrooms />
+      <matko:numberofrestaurantseats />
+      <matko:exhibitionarea />
+      <matko:isvenue>True</matko:isvenue>
+      <matko:area>2</matko:area>
+      <matko:ingress />
+      <matko:longitude>24.925218</matko:longitude>
+      <matko:latitude>60.172983</matko:latitude>
+    </item>
+  </channel>
+</rss>

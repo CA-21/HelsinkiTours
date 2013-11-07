@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="6dip">
+
+    <ImageView
+	    android:id="@+id/icon"
+	    android:layout_width="wrap_content"
+	    android:layout_height="fill_parent"
+	    android:layout_marginRight="6dip"
+	    android:src="@drawable/attraction_icon" 
+	    android:padding="2px"
+		android:background="@android:color/transparent" />
+
+    <LinearLayout
+        android:id="@+id/drawer_row"
+        android:orientation="vertical"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="fill_parent">
+	
+        <TextView
+            android:id="@+id/name_field"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:onClick="onClick"
+            android:text="Item text"
+            android:textSize="18sp" />
+        
+        <TextView  
+        	android:id="@+id/desc_field"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1" 
+            android:singleLine="true"
+            android:textSize="12sp"
+            android:text="-" />
+
+    </LinearLayout>
+
+</LinearLayout>
